@@ -1,3 +1,4 @@
+status: active
 # roBa
 roBaは[keyball](https://github.com/Yowkees/keyball/)に影響を受けたワイヤレスキーボードです  
 ![alt text](doc/img/roba.png)
